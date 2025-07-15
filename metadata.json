@@ -1,9 +1,0 @@
-{
-  "requestFramePermissions": [
-    "camera",
-    "microphone"
-  ],
-  "name": "ILovePDFLY",
-  "description": "",
-  "prompt": ""
-}
